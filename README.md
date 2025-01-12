@@ -41,7 +41,7 @@ pip install pillow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ipeek.git
+   git clone https://github.com/AmirMahbob/ipeek.git
    cd ipeek
    ```
 
