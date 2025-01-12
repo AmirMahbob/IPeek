@@ -65,8 +65,6 @@ pip install pillow
 
 ## 🌟 Example
 
-![IPeek Example](https://via.placeholder.com/500x300.png?text=IPeek+Example)
-
 - **Input:** `8.8.8.8`
 - **Output:**
   ```
